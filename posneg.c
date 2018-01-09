@@ -10,6 +10,7 @@ printf("number is negative");
 }
 else
 {
-printf("number is positive":);
+printf("number is positive");
+  return 0;
 }
 }
