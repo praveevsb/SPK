@@ -11,5 +11,6 @@ printf("even number");
 else
 {
 printf("odd number");
+return 0;
 }
 }
