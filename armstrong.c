@@ -1,9 +1,10 @@
 #include<stdio.h>
 int main()
 {
-int num,rem,sum,s=0,spk;spk=num;
+int num,rem,sum,s=0,spk;
 printf("enter the number:");
 scanf("%d",&num);
+  spk=num;
 while(num>0)
 {
 rem=num%10;
