@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-int num,rem,sum,s=0;
+int num,rem,sum,s=0;spk=num;
 printf("enter the number:");
 scanf("%d",&num);
 while(num>0)
@@ -11,7 +11,7 @@ sum=rem*rem*rem;
 s=sum+s;
 num=num/10;
 }
-if(num==s)
+if(spk==s)
 {
 printf("yes");
 }
