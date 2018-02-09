@@ -11,6 +11,7 @@ scanf("%d",&a[j]);
 for(j=0;j<n;j++)
 {
 printf("%d %d\n",a[j],j);
-return 0;
 }
+return 0;
+
 }
